@@ -11,7 +11,7 @@ document.getElementById('btnHeart').addEventListener('click', function() {
     `,
     icon: 'info',
     confirmButtonText: 'You’re incredible! 🌟',
-    background: 'rgba(255, 240, 245, 0.8)',
+    background: 'rgba(255, 240, 245, 0.9)',
     backdrop: `
       rgba(255, 192, 203, 0.4)
       url("https://media.tenor.com/14eukQYac-kAAAAi/like-it-platonic-love.gif")
