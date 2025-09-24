@@ -11,10 +11,10 @@ document.getElementById('btnHeart').addEventListener('click', function() {
     `,
     icon: 'info',
     confirmButtonText: 'You’re incredible! 🌟',
-    background: '#fff0f5',
+    background: 'rgba(255, 240, 245, 0.8)',
     backdrop: `
       rgba(255, 192, 203, 0.4)
-      url("https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif")
+      url("https://media.tenor.com/14eukQYac-kAAAAi/like-it-platonic-love.gif")
       center
       no-repeat
     `,
